@@ -58,7 +58,7 @@ Global Styles
 }
 body {
   font-family: var(--ff-primary);
-  background: var(--clr-white);
+  background: pink;
   color: purple;
   line-height: 1.5;
   font-size: 0.875rem;
